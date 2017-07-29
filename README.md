@@ -1,2 +1,2 @@
 # gf2ftp
-Gravity forms data to csv file via ftp
+WordPress plugin to export Gravity Forms data to a csv file on a FTP location.
