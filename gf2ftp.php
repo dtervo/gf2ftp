@@ -1,8 +1,12 @@
 <?php
 /*
 Plugin Name: Gravity Forms FTP Export
-Plugin URI:
+Plugin URI: https://tervosystems.com
 Description: Exports submitted entries and sends them as a .csv to an FTP Location.
+Version: 1.2
+License: GPL
+Author: Dan Tervo
+Author URI: dantervo.com
 */
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
